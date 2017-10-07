@@ -26,7 +26,7 @@
 //  display the account's future value.
 
 #include <iostream>
-#include<iomanip>
+#include <iomanip>
 #include <cmath>
 
 using namespace std;
